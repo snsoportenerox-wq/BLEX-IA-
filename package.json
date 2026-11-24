@@ -1,0 +1,15 @@
+{
+  "name": "blex-ia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BLEX IA - aplicación web con Google Auth mediante Supabase",
+  "main": "index.js",
+  "scripts": { "start": "node index.js", "dev": "node index.js" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.0.0"
+  }
+}
