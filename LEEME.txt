@@ -1,0 +1,18 @@
+BLEX IA — Términos y condiciones
+================================
+
+Contenido del ZIP:
+- index.html: estructura de la página.
+- style.css: estilos visuales responsive.
+- script.js: búsqueda, índice y renderizado de las 200 cláusulas.
+
+Cómo usar:
+1. Extrae el ZIP.
+2. Abre index.html en un navegador.
+3. Para publicar, sube los tres archivos a tu hosting manteniendo sus nombres.
+
+IMPORTANTE:
+Este contenido es una plantilla general y no constituye asesoramiento jurídico.
+Antes de publicarlo, adapta las condiciones a las funciones reales de BLEX IA,
+añade datos legales y de contacto, aviso de privacidad, fecha de vigencia y
+revisión legal para los países donde se ofrecerá el servicio.
