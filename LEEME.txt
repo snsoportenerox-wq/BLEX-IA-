@@ -1,0 +1,19 @@
+BLEX IA — paquete web actualizado
+
+Archivos:
+- index.html: Condiciones del Servicio con 1.000 reglas numeradas y buscador.
+- privacy.html: plantilla de Política de Privacidad.
+- style.css: estilos responsive oscuros, azul y morado.
+- script.js: índice, buscador y renderizado de las 1.000 reglas.
+- logo-blex-ia.png: logo proporcionado para BLEX IA.
+
+Contacto: botblex51@gmail.com
+Servidor: https://discord.gg/VM2mw7P4SM
+
+Publicación:
+1. Sube todos los archivos a la misma carpeta de tu hosting.
+2. La URL pública de Condiciones será TU-DOMINIO/index.html.
+3. La URL pública de Privacidad será TU-DOMINIO/privacy.html.
+4. Sustituye TU-DOMINIO por el dominio real de tu web al configurar los enlaces en servicios externos.
+
+Nota: Las 1.000 reglas se generan aplicando las 200 disposiciones base a cinco superficies de uso (web, bot de Discord, panel, API/integraciones y aplicaciones compatibles). No son 1.000 obligaciones legales independientes. El documento y la política de privacidad son plantillas; verifica que describan tus prácticas reales y solicita revisión legal antes de publicarlos.
